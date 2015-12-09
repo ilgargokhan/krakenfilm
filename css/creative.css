@@ -50,7 +50,9 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
-
+/*!
+ * bg hemen alti
+ */
 .bg-primary {
     background-color: #f05f40;
 }
